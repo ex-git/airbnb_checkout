@@ -1,0 +1,7 @@
+{
+    "house": "my house",
+    "manual_blocked_min": 2,
+    "rooms": [
+        {"name": "#1", "url": "https://www.airbnb.com/calendar/ical/42918732198371.ics?s=321321"},
+    ]
+}
